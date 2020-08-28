@@ -2,7 +2,7 @@ import numpy as np
 import argparse
 import cv2
 
-//variables
+#variables
 
 appara = argparse.ArgumentParser()
 appara.add_argument("-i", "--image", help = "path to the image")
